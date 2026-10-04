@@ -1,0 +1,21 @@
+# Dependencias (este sitio no usa, pero por si acaso)
+node_modules/
+
+# Basura del sistema operativo
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Configuración local de Claude Code
+.claude/
+
+# Archivos temporales
+*.log
+*.tmp
+~$*
